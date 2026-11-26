@@ -6,3 +6,5 @@ export function handle(request: IncomingMessage, response: ServerResponse): void
   response.writeHead(ok ? 200 : 404, { 'content-type': 'application/json' });
   response.end(JSON.stringify(ok ? { status: 'ok' } : { error: 'not found' }));
 }
+
+export const probeUnused = 1;
