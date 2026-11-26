@@ -17,7 +17,7 @@ afterAll(() => new Promise((resolve) => server.close(resolve)));
 describe('Beispiel-App', () => {
   it('antwortet auf /health mit ok', async () => {
     const response = await fetch(`${base}/health`);
-    expect(response.status).toBe(200);
+    expect(response.status).toBe(201);
     expect(await response.json()).toEqual({ status: 'ok' });
   });
 
