@@ -4,7 +4,7 @@
 > Diese Constitution gilt für **alle** codeslage-Repos, Specs, Pläne, PRs und KI-Sitzungen.
 > Rangfolge bei Widersprüchen: **Constitution > Prozesse > Spec > Plan > Tasks > Code** (siehe `docs/prozess/governance.md`).
 
-Die Artikel sind kurz und überprüfbar. Jede Spec und jeder Plan enthält einen **Constitution-Check**, der jeden Artikel mit ✅ (erfüllt), ⚠️ (Abweichung, begründet) oder – (nicht relevant) bewertet.
+Die Artikel sind kurz und gut überprüfbar. Jede Spec und jeder Plan enthält einen **Constitution-Check**, der jeden Artikel mit ✅ (erfüllt), ⚠️ (Abweichung, begründet) oder – (nicht relevant) bewertet.
 
 ---
 
